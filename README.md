@@ -14,9 +14,13 @@ The website is built using pure HTML and CSS (no backend or JavaScript framework
 ## 📁 Project Structure
 Acceture/
 ├── index.html          # Home Page
+
 ├── product.html        # Services / Products Page
+
 ├── branches.html       # Our Branches Page
+
 ├── feedback.html       # Feedback Form Page
+
 └── README.md
 
 
