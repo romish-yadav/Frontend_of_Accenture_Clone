@@ -13,6 +13,7 @@ The website is built using pure HTML and CSS (no backend or JavaScript framework
 
 ## 📁 Project Structure
 Acceture/
+
 ├── index.html          # Home Page
 
 ├── product.html        # Services / Products Page
