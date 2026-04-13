@@ -12,18 +12,14 @@ This is a basic HTML-based website showcasing a company's:
 The website is built using pure HTML and CSS (no backend or JavaScript frameworks).
 
 ## 📁 Project Structure
+```
 Acceture/
-
 ├── index.html          # Home Page
-
 ├── product.html        # Services / Products Page
-
 ├── branches.html       # Our Branches Page
-
 ├── feedback.html       # Feedback Form Page
-
 └── README.md
-
+```
 
 ## 🌐 Pages Overview
 
