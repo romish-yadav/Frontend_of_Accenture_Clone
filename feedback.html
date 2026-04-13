@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback Form</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #fff0f5;
+        }
+        form {
+            width: 40%;
+            margin: auto;
+        }
+        input, select, textarea {
+            width: 100%;
+            margin: 8px 0;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 style="text-align:center;">Feedback Form</h1>
+
+    <form>
+
+        Name:
+        <input type="text" required>
+
+        Mobile:
+        <input type="tel" required>
+
+        Email:
+        <input type="email" required>
+
+        Education:
+        <select>
+            <option>Graduate</option>
+            <option>Post Graduate</option>
+            <option>Diploma</option>
+        </select>
+
+        Gender:
+        <input type="radio" name="gender"> Male
+        <input type="radio" name="gender"> Female
+
+        Feedback:
+        <textarea rows="4"></textarea>
+
+        Comments:
+        <textarea rows="4"></textarea>
+
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+
+    </form>
+
+    <br><br>
+    <center><a href="index.html">Back to Home</a></center>
+
+</body>
+</html>
